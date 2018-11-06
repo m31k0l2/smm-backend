@@ -1,0 +1,16 @@
+{
+  "name": "smm-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "author": "m31k0l2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8",
+    "node-fetch": "^2.2.1"
+  }
+}
